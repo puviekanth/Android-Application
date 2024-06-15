@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#673AB7</color>
+    <color name="disabled">#C3838282</color>
+    <color name="off_white">#C3CCCCCC</color>
+    <color name="sender_color_light_purple">#FDB78DF3</color>
+    <color name="danger">#83221B</color>
+</resources>
